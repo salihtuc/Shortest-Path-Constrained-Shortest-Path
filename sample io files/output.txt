@@ -1,0 +1,5 @@
+Student_Id
+
+Shortest Path:  Distance=16.000000     Path=(10 18 52 31 20 )
+
+Constrained Shortest Path:  Distance=42.000000     Path=(10 18(mustpass) 12(mustpass) 48 14(mustpass) 17 29 31 20 )
